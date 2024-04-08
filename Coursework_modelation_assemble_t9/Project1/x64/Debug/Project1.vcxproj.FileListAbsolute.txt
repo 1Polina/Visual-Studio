@@ -1,0 +1,24 @@
+D:\lecon\Visual\kurs\gpt\2\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\lecon\Visual\kurs\gpt\2\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\lecon\Visual\kurs\gpt\2\Project1\Project1\x64\Debug\Project1.MyForm.resources
+D:\lecon\Visual\kurs\gpt\2\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+D:\lecon\Visual\it\2\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\lecon\Visual\it\2\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\lecon\Visual\it\2\Project1\Project1\x64\Debug\Project1.MyForm.resources
+D:\lecon\Visual\it\2\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+D:\lecon\Visual\it\mmm\2\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\lecon\Visual\it\mmm\2\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\lecon\Visual\it\mmm\2\Project1\Project1\x64\Debug\Project1.MyForm.resources
+D:\lecon\Visual\it\mmm\2\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+D:\lecon\Visual\it\ть\mmm\2\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\lecon\Visual\it\ть\mmm\2\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\lecon\Visual\it\ть\mmm\2\Project1\Project1\x64\Debug\Project1.MyForm.resources
+D:\lecon\Visual\it\ть\mmm\2\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+D:\lecon\Visual\it\bi\ть\mmm\2\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\lecon\Visual\it\bi\ть\mmm\2\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\lecon\Visual\it\bi\ть\mmm\2\Project1\Project1\x64\Debug\Project1.MyForm.resources
+D:\lecon\Visual\it\bi\ть\mmm\2\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+D:\lecon\Visual\it\Курсовая_работа_моделирование_помощника_т9_КТСО-03-22_Виноградова П.И._2 семестр\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\lecon\Visual\it\Курсовая_работа_моделирование_помощника_т9_КТСО-03-22_Виноградова П.И._2 семестр\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\lecon\Visual\it\Курсовая_работа_моделирование_помощника_т9_КТСО-03-22_Виноградова П.И._2 семестр\Project1\Project1\x64\Debug\Project1.MyForm.resources
+D:\lecon\Visual\it\Курсовая_работа_моделирование_помощника_т9_КТСО-03-22_Виноградова П.И._2 семестр\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
