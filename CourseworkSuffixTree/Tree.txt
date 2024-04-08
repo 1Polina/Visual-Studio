@@ -1,0 +1,56 @@
+Suffix Tree:
++-er
+| | 
++-qwer
+| | 
++-r
+| | 
++-wer
+| | 
+
+Suffix Tree:
++-ac
+| | 
++-+-dacting
+| | | 
++-+-ting
+| | | 
++-c
+| | 
++-+-dacting
+| | | 
++-+-ting
+| | | 
++-dacting
+| | 
++-g
+| | 
++-ing
+| | 
++-ng
+| | 
++-ting
+| | 
+
+Suffix Tree:
++-ac
+| | 
++-+-gacting
+| | | 
++-+-ting
+| | | 
++-c
+| | 
++-+-gacting
+| | | 
++-+-ting
+| | | 
++-gacting
+| | 
++-ing
+| | 
++-ng
+| | 
++-ting
+| | 
+

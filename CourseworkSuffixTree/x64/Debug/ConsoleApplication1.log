@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\lecons\прога\курсач\3 g\ConsoleApplication1\ConsoleApplication1.cpp(82,1): warning C4145: &&: использование выражения с оператором отношения в качестве выражения для выбора вариантов; возможное смешение с "&"
+D:\lecons\прога\курсач\3 g\ConsoleApplication1\ConsoleApplication1.cpp(176,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\lecons\прога\курсач\3 g\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
